@@ -1,0 +1,85 @@
+Stock Symbol: TSM
+{
+    "Global Quote": {
+        "01. symbol": "TSM",
+        "02. open": "116.0000",
+        "03. high": "116.5600",
+        "04. low": "115.5250",
+        "05. price": "115.6400",
+        "06. volume": "4429020",
+        "07. latest trading day": "2021-09-24",
+        "08. previous close": "116.1900",
+        "09. change": "-0.5500",
+        "10. change percent": "-0.4734%"
+    }
+}
+The current price of TSM is: 115.6400
+Stock Quotes retrieved successfully!
+Stock Symbol: AMZN
+{
+    "Global Quote": {
+        "01. symbol": "AMZN",
+        "02. open": "3402.0100",
+        "03. high": "3429.2600",
+        "04. low": "3393.4000",
+        "05. price": "3425.5200",
+        "06. volume": "2077560",
+        "07. latest trading day": "2021-09-24",
+        "08. previous close": "3416.0000",
+        "09. change": "9.5200",
+        "10. change percent": "0.2787%"
+    }
+}
+The current price of AMZN is: 3425.5200
+Stock Quotes retrieved successfully!
+Stock Symbol: FDX
+{
+    "Global Quote": {
+        "01. symbol": "FDX",
+        "02. open": "228.0000",
+        "03. high": "229.0000",
+        "04. low": "226.6000",
+        "05. price": "226.6400",
+        "06. volume": "4907765",
+        "07. latest trading day": "2021-09-24",
+        "08. previous close": "228.9200",
+        "09. change": "-2.2800",
+        "10. change percent": "-0.9960%"
+    }
+}
+The current price of FDX is: 226.6400
+Stock Quotes retrieved successfully!
+Stock Symbol: BAC
+{
+    "Global Quote": {
+        "01. symbol": "BAC",
+        "02. open": "41.7200",
+        "03. high": "42.3400",
+        "04. low": "41.6500",
+        "05. price": "42.1400",
+        "06. volume": "38991651",
+        "07. latest trading day": "2021-09-24",
+        "08. previous close": "41.6900",
+        "09. change": "0.4500",
+        "10. change percent": "1.0794%"
+    }
+}
+The current price of BAC is: 42.1400
+Stock Quotes retrieved successfully!
+Stock Symbol: IBM
+{
+    "Global Quote": {
+        "01. symbol": "IBM",
+        "02. open": "137.0300",
+        "03. high": "138.4800",
+        "04. low": "136.7500",
+        "05. price": "137.4900",
+        "06. volume": "2944726",
+        "07. latest trading day": "2021-09-24",
+        "08. previous close": "136.7300",
+        "09. change": "0.7600",
+        "10. change percent": "0.5558%"
+    }
+}
+The current price of IBM is: 137.4900
+Stock Quotes retrieved successfully!
